@@ -1,0 +1,12 @@
+# Hisab Kitab - Python Backend Requirements
+# Pure standard library works out of the box with python3 backend/server.py
+# For FastAPI / Flask / GenAI SDK deployments:
+
+fastapi>=0.110.0
+uvicorn>=0.29.0
+pydantic>=2.6.0
+flask>=3.0.0
+flask-cors>=4.0.0
+google-genai>=0.1.0
+requests>=2.31.0
+pytest>=8.0.0
