@@ -1,0 +1,6 @@
+{
+  "name": "Hisab Kitab",
+  "description": "Mobile-first, voice-powered digital Bahi-Khata ledger for small businesses with Hindi/Hinglish speech recognition, immutable ledger audit trails, PDF statements, and WhatsApp sharing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
